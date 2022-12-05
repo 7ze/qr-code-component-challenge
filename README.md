@@ -43,7 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Shinu Donney](https://github.com/7ze)
+- Website - [7ze](https://github.com/7ze)
 - Frontend Mentor - [@7ze](https://www.frontendmentor.io/profile/7ze)
 - Twitter - [@philosopher_7ze](https://www.twitter.com/philosopher_7ze)
 
